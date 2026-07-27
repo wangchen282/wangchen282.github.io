@@ -1,0 +1,43 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: research-intro
+### Course Offering
+
+As the Slayton Endowed Assistant Professor of East Asian Politics at the University of Idaho, I teach a range of undergraduate courses spanning Asian politics, international relations, and political methodology. My primary instructional focus is on Chinese politics and foreign policy through courses such as *Introduction to Asian Politics*, *China's National Security*, and *Authoritarian Regimes*. I have also taught *Introduction to International Politics* (in both in-person and online formats), *Political Research Methods and Approaches*, and *Senior Experience*, which provide students with both substantive knowledge and the analytical skills needed to study politics.
+
+Sample syllabi of these courses are linked below.
+:::
+
+:::teach-sp
+
+**--China's National Security: Challenges and Statecraft**
+
+Fall 2023, 2024, 2026: <i class="bi bi-journal-text"></i> [Sample Syllabus](files/fall24_pols404_china_national_security.pdf).
+
+
+
+**--Introduction to Asian Politics**
+
+Fall 2022; Spring 2024, 2025, 2026: <i class="bi bi-journal-text"></i> [Sample Syllabus](files/pols_420_syllaubs_sp26.pdf).
+
+**--Authoritarian Regimes**
+
+Spring 2024; Fall 2025 (8-week online version): <i class="bi bi-journal-text"></i> [Sample Syllabus](files/pols_404_authoritarian_regimes_spr24.pdf).
+
+**--Introduction to International Politics**
+
+Fall 2022, 2023; Spring 2023: <i class="bi bi-journal-text"></i> [Sample Syllabus](files/pols_237_fall23.pdf).
+
+**--Political Research Methods and Approaches**
+
+Fall 2024, 2026: <i class="bi bi-journal-text"></i> [Sample Syllabus](files/pols_235_research_methods_fall24).
+
+**--Senior Experience**
+
+Spring 2025, 2026: <i class="bi bi-journal-text"></i> [Sample Syllabus](files/pols_490_senior_experience.pdf).
+
+:::

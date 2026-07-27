@@ -1,0 +1,14 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: research-intro
+### CV
+
+A copy of my CV can be found [HERE](files/wang_cv.pdf)
+
+Last updated: May 2026
+:::
+---

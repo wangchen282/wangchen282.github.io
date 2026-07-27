@@ -1,5 +1,18 @@
 ---
-title: "Book"
+title: ""
+
+image: images/bookcover.jpg
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 16em
+  links:
+    - icon: amazon
+      text: Amazon
+      href: https://www.amazon.com/Zero-Tolerance-Repression-Political-Violence/dp/1009100386
+    - icon: book-half
+      text: Cambridge University Press
+      href: https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/east-asian-government-politics-and-policy/zero-tolerance-repression-and-political-violence-chinas-new-silk-road?format=HB&isbn=9781009100380
 ---
 
 What is the nature of Uyghur political violence and how has it evolved over time? Why does the Chinese government promptly highlight some domestic terrorist incidents in the official media, but acknowledges others slowly or not at all? What explains the radical strategic change in China’s Xinjiang policy? What is the strategic calculation that has underpinned China’s counterterrorism foreign policies? What implications do this rather small-scale conflict and seemingly excessive governmental responses have for world politics? *Zero Tolerance: Repression and Political Violence on China’s New Silk Road* seeks to shed light on these questions with an eye toward both shifting scholarly attention to these understudied issues and preparing policymakers for events that could come to occupy a good deal of their time and attention in the coming years. Drawing on original and comprehensive data on Uyghur political violence, official media coverage, government security expenditures, and joint military exercises between PLA and foreign forces, we explore these dynamics with rigorous theoretical and empirical analysis. We demonstrate that competing priorities in terms of maintaining stability, consolidating ideological unity, cultivating legitimacy, protecting overseas interests, and minimizing blowback from international terrorism have shaped Chinese government’s policies at home and abroad - one that is characterized with zero tolerance of violence, harsh repression, sophisticated media control, and selective international military cooperation.  **​**

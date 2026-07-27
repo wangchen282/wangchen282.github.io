@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/**
+
+website:
+  title: "Chen Wang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: book.qmd
+        text: Book
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

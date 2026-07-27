@@ -1,0 +1,26 @@
+---
+title: "Chen Wang"
+image: images/profile_sq.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: card-text
+      text: cv
+      href: files/wang_cv.pdf
+    - icon: envelope
+      text: Email
+      href: mailto:chenw@uidaho.edu
+    - icon: building
+      text: University Profile
+      href: https://www.uidaho.edu/letters-arts-social-sciences/academics/politics-philosophy
+page-layout: full
+toc: false
+---
+
+I am the Slayton Assistant Professor of East Asian Politics in the Department of Politics and Philosophy at the University of Idaho. I study domestic politics of international relations, with China as a special empirical focus. Beyond the China case, my research seeks to understand the role of leaders and domestic institutions in shaping foreign policies and international security. My co-authored book, *Zero Tolerance: Repression and Political Violence on China's New Silk Road* (Cambridge University Press, 2022), examines how competing priorities at home and abroad shape China's domestic and foreign policies toward political violence. My other works have been published or forthcoming in *British Journal of Political Science*, *International Studies Quarterly*, and *Journal of Politics*.
+
+Prior to UI, I was an [America in the World Consortium (AWC)](https://www.awconsortium.org/alumni/) Postdoctoral Fellow in the Department of Political Science at Duke University. I was also a Predoctoral Visiting Scholar in the [Institute for Security and Conflict Studies (ISCS)](https://iscs.elliott.gwu.edu/our-visiting-scholars) at George Washington University's Elliott School of International Affairs, and a Research Fellow affiliated with the [National Security Policy Center (NSPC)](https://nspcbatten.org/about/) of the Frank Batten School of Leadership and Public Policy at UVa. I received Ph.D. in Foreign Affairs from the Department of Politics at the University of Virginia.
+
+------------------------------------------------------------------------

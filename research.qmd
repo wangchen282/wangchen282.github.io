@@ -1,0 +1,98 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: research-intro
+### Research Interests
+
+I am broadly interested in the domestic politics of International Relations. My research has two primary strands. The first examines how the interaction of domestic and international politics affects the making and effectiveness of China’s foreign and security policies across a range of issue areas. The second stream of my research extends beyond the China case, seeking to understand the role of leaders and domestic institutions in shaping foreign policy decision-making and international security across countries.
+
+:::
+
+### Peer-Reviewed Publications
+
+::: research-item
+#### Today Ukraine Tomorrow Taiwan? Assessing US Reputation and Deterrence Across International Crises
+
+(with Rachel Myrick). *International Studies Quarterly*. DOI: <https://doi.org/10.1093/isq/sqag007>
+
+<i class="bi bi-file-pdf"></i> [PDF](files/reputation_us_china.pdf). <i class="bi bi-journal-text"></i> [Appendix](files/reputation_us_china_appendix.pdf).
+
+When does a state’s reputation for resolve transfer across separate international crises and deter future challengers? We propose three assumptions underlying “Cross-Crisis Reputational Deterrence” (CCRD). First, a defender’s response to a crisis leads a new challenger to reassess the defender’s reputation (reputation formation). Second, the new challenger draws inferences about how the defender would behave in a different future crisis scenario (transfer of reputation). Third, anticipating the defender’s response, the challenger changes its preferences (deterrence by reputation). We test the CCRD logic by examining whether the initial US response to Russia’s invasion of Ukraine impacted Chinese assertiveness toward Taiwan. A framing experiment in China in March 2022 finds that a weak US response to Russian aggression decreases perceptions of US resolve but does not ultimately impact Chinese attitudes toward Taiwan. Our findings illustrate the conditions under which CCRD is more or less likely to occur in international politics.
+:::
+
+::: research-item
+#### Move First to Avoid the Worst: Leadership Turnover and the Targeting of New Leaders
+
+*International Studies Quarterly*. DOI: <https://doi.org/10.1093/isq/sqad072>
+
+<i class="bi bi-file-pdf"></i> [PDF](files/wang_isq23.pdf). <i class="bi bi-journal-text"></i> [Appendix](files/wang_isq23_appendix.pdf).
+
+Are leaders more likely to face militarized challenges earlier in their tenure? Existing studies posit contradictory hypotheses: new leaders can both invite challengers to take advantage of their inexperience, and deter challengers by their strong incentive to establish a reputation for resolve. This paper seeks to reconcile these competing propositions by developing an argument that centers on the direction of foreign policy preference change associated with leadership turnover. I argue that foreign adversaries are likely to challenge a new leader in their rival state only when the newcomer is perceived to be more hawkish than the predecessor. The perception of a heightened risk of conflict accompanied with the emergence of a more hawkish leader in the rival state gives foreign adversaries stronger incentive to seek for an early confrontation in which they can (re)demonstrate their own position to the new hawk. In contrast, when the newcomer is perceived to be more dovish than the predecessor, optimistic expectations of future interactions tend to restrain foreign adversaries from provoking the new dove whose reputation concern is high. A series of statistical analyses on post-WWII dyadic-rivalries with democratically elected leaders on the target side yield strong evidence that supports this conditional hypothesis.
+:::
+
+::: research-item
+#### Domestic Polarization and Great Power Competition: How Adversaries Respond to America’s Partisan Politics
+
+(with Rachel Myrick). *Journal of Politics*. DOI: <https://doi.org/10.1086/726926>
+
+<i class="bi bi-file-pdf"></i> [PDF](files/mw_jop.pdf). <i class="bi bi-journal-text"></i> [Appendix](files/mw_jop_appendix.pdf).
+
+How do foreign rivals perceive and respond to heightened domestic polarization in the United States? The conventional thinking is that polarization weakens and distracts the U.S., emboldening its adversaries. However, untested assumptions underlie this claim. We use two strategies to explore mechanisms linking domestic polarization and international rivalry. First, we field a survey experiment in China to examine how heightening perceptions of U.S. polarization affects public attitudes towards Chinese foreign policy. Second, we investigate how U.S. rival governments responded to an episode of extreme partisanship: the U.S. Capitol attacks on January 6, 2021. Drawing on ICEWS event data, we explore whether foreign rivals increased hostility towards the U.S. following the Capitol riots. Both studies fail to show robust evidence for the emboldening hypothesis. Extreme polarization has other negative consequences for American foreign policy, but we find no evidence that it makes adversaries materially more assertive towards the United States.
+:::
+
+::: research-item
+#### Governmental Responses to Terrorism in Autocracies: Evidence from China
+
+(with Philip Potter). *British Journal of Political Science* 52, no. 1 (2022): 358–380. DOI: <https://doi.org/10.1017/S0007123420000514>
+
+<i class="bi bi-file-pdf"></i> [PDF](files/pw_bjps22.pdf). <i class="bi bi-journal-text"></i> [Appendix](files/pw_bjps22_appendix.pdf).
+
+Autocracies are widely assumed to have a counterterrorism advantage because they can censor media and are insulated from public opinion, thereby depriving terrorists of both their audience and political leverage. However, institutionalized autocracies such as China draw legitimacy from public approval and feature partially free media environments, meaning that their information strategies must be much more sophisticated than simple censorship. To better understand the strategic considerations that govern decisions about transparency in this context, we explore the Chinese Communist Party’s (CCP) treatment of domestic terrorist incidents in the official party mouthpiece—the *People’s Daily*. Drawing on original, comprehensive datasets of all known Uyghur terrorist violence in China and the official coverage of that violence, we demonstrate that the CCP promptly acknowledges terrorist violence only when both domestic and international conditions are favorable. We attribute this pattern to the entrenched prioritization of short-term social stability over longer-term legitimacy.
+:::
+
+### Work Under Review/Revision
+
+::: research-item
+#### Wait for the Right Time: Leader's Type, Tenure, and International Cooperation
+
+***Under Review***
+
+Are hawkish or dovish leaders more likely to be approached by foreign adversaries for cooperation? The \`\`hawk’s advantage'' argument suggests that hawks are better positioned domestically to pursue conciliatory policies, making them more attractive targets for outreach. Yet evidence that doves can extract greater concessions complicates this view. I argue that the hawk’s advantage is real but conditional: it is strongest early in a leader’s tenure, when uncertainty about competence is high. Over time, perceived experience in foreign affairs may strengthen even doves’ ability to justify engagement, generating an experienced leader’s advantage. Adversaries---who may inherently trust doves more---thus have incentive to delay engagement, allowing time for doves to build the political capital needed to reciprocate. These competing arguments are tested using both observational data and a survey experiment focused on U.S.-China cooperation. Observational study shows that doves are more likely to be approached for cooperation, but only later in their tenure, consistent with the experienced leader's advantage argument. Experimental evidence, however, shows that American voters overwhelmingly favor reciprocating China’s cooperative gestures---primarily due to concerns about U.S. trustworthiness. Consequently, doves actually fare better when rejecting adversaries' olive branch, as the action is seen as against-type and thus enhance credibility. Moreover, this dynamic appears more salient for longer-serving leaders, suggesting that experience may amplify rather than mitigate the reputational effect, contradicting the experienced leader's advantage hypothesis. Together, these findings reveal a disconnect between adversaries’ strategic caution and the target's domestic politics, highlighting how misperceptions of leadership constraints can undermine opportunities for cooperation.
+:::
+
+::: research-item
+#### Escalation from Below, De-escalation from Above: A Dual-Process Theory of Low-Intensity Conflict Behavior
+
+(with Frances Yaping Wang) ***Under Review***
+
+International relations scholarship has long emphasized the causes of war, yet we lack systematic accounts of the everyday low-level provocations that constitute most hostile interstate interactions. We develop a dual-process model in which low-intensity conflict behavior emerges from the combination of central authorities’ strategic discretion and frontline agencies’ bureaucratic routines. Drawing on original fine-grained data on Chinese maritime patrols near the Diaoyu/Senkaku Islands from 2013 to 2024, we show that central authorities, sensitive to diplomatic and political costs, curb high-consequence incursions into territorial waters during summit diplomacy, while local agencies, driven by operational mandates, sustain lower-consequence patrols in the contiguous zone during routine enforcement cycles, including annual fishing bans. Supplementary evidence from provincial fiscal data and the 2016 Hangzhou G20 episode further illustrates how local financial incentives and selective top-down intervention shape conflict behavior. This paper demonstrates how state actors calibrate mundane provocations, advancing theories of conflict short of war.
+:::
+
+### Select Work in Progress
+
+::: research-item
+#### Reframing Power: China's Joint Military Exercises and Threat Perception
+
+(with Phil Potter and Josh Alley) ***Work in Progress***
+
+The current discourse on great power competition predominantly centers on the hegemon's strategies for maintaining dominance while avoiding conflicts. Conversely, scant attention has been paid to a parallel dilemma faced by rising powers: how to expand influence while minimizing charges of revisionism? We argue that China’s engagement in joint military exercises (JMEs) with foreign forces offers a unique lens through which to examine such strategic maneuvers. Utilizing an original dataset covering China’s JMEs from 2002 to 2020, our analysis uncovers a robust inverted U-shaped correlation between a nation’s UN voting alignment with Beijing vis-à-vis Washington and the average duration China spends on Counterterrorism JMEs with that nation. In contrast, neither Military Operations Other Than War (MOOTW) nor Combat-type JMEs exhibit a similar pattern. We argue that these findings underscore the cautious nature of Chinese foreign policy. Beijing appears inclined to enhance political and military relations with nations not fully aligned with either Beijing or Washington, but prefers to do so under the less contentious guise of counterterrorism. ​We pair the observational analysis with a survey experiment examining how U.S. audiences interpret such framing, testing whether counterterrorism labeling reduces perceived threat or instead generates skepticism. Together, the findings illuminate how rising powers strategically reframe military cooperation to manage threat perceptions under great power competition.
+:::
+
+::: research-item
+#### The Effectiveness of China's Discriminate Targeting in Diplomatic Communication: Evidence from a Survey Experiment
+
+***Work in Progress***
+
+The COVID-19 pandemic has been accompanied by an increasingly escalatory “war of words” between China and the US. A clear targeting pattern has emerged on both sides. US officials have consistently targeted “the CCP (Chinese Communist Party)” instead of “China” in their public statements and condemnations. In response, the Chinese side also moved away from “the US” to “Republican politicians” and then to specific persons like “Pompeo” and “Navarro” in their official statements. The rationale behind the discriminate targeting strategy is straightforward: delegitimize the ruler without alienating the ruled (or at least part of the ruled). However, despite the intuition, relatively little is known about the real effect of discriminate targeting on the public opinion of the target state. Not only might the effect of the discriminate targeting be too weak to make any substantive difference, but also the strategy could backfire, fueling animosity and promoting unity in the target state if the strategy is perceived as a deliberate attempt to sow dissension. Preliminary results from a pilot survey experiment show that this strategy is partially working. Respondents who voted for Clinton in 2016 tend to view China as significantly less threatening when the Chinese official condemnation targets Republican politicians as opposed to the United States as a nation.
+:::
+
+::: research-item
+#### One Size Hits All: The Double-Edged Sword of Indiscriminate Targeting in Coercive Diplomacy
+
+(with Ruining Can and Alexis Jihye Yang) ***Work in Progress***
+
+Shortly after taking office in 2025, President Trump issued a series of tariff threats against both adversaries and allies. This form of "indiscriminate targeting" in coercive threats is rare in international relations, and little is known about its effectiveness. On one hand, threatening allies together with adversaries may signal that high stakes are involved, thereby enhancing the credibility of the threat. On the other hand, when multiple states are targeted, each may feel a stronger incentive to resist in order to not to be perceived as weaker than other targets, making coercion less effective. To assess these competing dynamics, we conduct a cross-country survey experiment in China, Germany, and South Korea. The framing experiment examines how the public in allied and rival states respond to different patterns of U.S. coercive behavior, and whether indiscriminate threats strengthen perceptions of American resolve or instead generate backlash and greater willingness to resist. More broadly, this research seeks to contribute to the literature on coercive diplomacy by examining how the scope and target composition of threats shape their credibility and effectiveness.
+:::
